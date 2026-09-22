@@ -1,0 +1,6 @@
+archive        : photo-ocr-exif-rename.zip
+algorithm      : WinZip AES-256 (AE-2), ZIP deflate
+sha256(archive): afb91bf234442e9d6b07adda83a43845cca375dc1745d9c86fb1fa9d0739fb32
+files          : 5
+unpacked bytes : 20434
+password       : NOT stored here. Sent separately.
